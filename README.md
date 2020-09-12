@@ -1,2 +1,3 @@
 # IIC-Workspace
-<h1> Uploade your code in your respective folder</h1>
+<h2> Guidelines </h2>
+<p> ---blank----</p>
