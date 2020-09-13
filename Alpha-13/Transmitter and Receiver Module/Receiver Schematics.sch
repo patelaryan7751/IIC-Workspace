@@ -551,9 +551,9 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <pinref part="M1" gate="G$1" pin="VCC"/>
 <wire x1="10.16" y1="66.04" x2="15.24" y2="66.04" width="0.1524" layer="91"/>
 <wire x1="15.24" y1="66.04" x2="15.24" y2="35.56" width="0.1524" layer="91"/>
-<wire x1="15.24" y1="35.56" x2="48.26" y2="35.56" width="0.1524" layer="91"/>
-<pinref part="PCB1" gate="G$1" pin="3.3V"/>
-<wire x1="48.26" y1="35.56" x2="48.26" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="15.24" y1="35.56" x2="50.8" y2="35.56" width="0.1524" layer="91"/>
+<pinref part="PCB1" gate="G$1" pin="5V"/>
+<wire x1="50.8" y1="40.64" x2="50.8" y2="35.56" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$5" class="0">
