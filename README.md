@@ -2,7 +2,7 @@
 <h2> Guidelines </h2>
 <ul>
   <li><p>update your team member list in your respective folder</p></li>
-  <li><p>update your task in stipulated time</p></li>
+  <li><p>complete your task in stipulated time</p></li>
 </ul>
 
 <h1>Task</h1>
